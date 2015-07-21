@@ -1,0 +1,74 @@
+[
+{
+	'price': 15.99,
+	'chapters': [
+ 	'one',
+ 	'two',
+ 	'three'
+	],
+	'year': 1999,
+	'title': 'foo',
+	'author': 'mary',
+	'type': 'book'
+ },
+ {
+	'price': 11.99,
+	'minutes': 90,
+	'year': 2004,
+	'title': 'bar',
+	'director': 2015,
+	'type': 'dvd'
+ },
+ {
+	'price': 15.99,
+	'tracks': [
+ 	{
+   	'seconds': 180,
+   	'name': 'one'
+ 	},
+ 	{
+   	'seconds': 200,
+   	'name': 'two'
+ 	}
+	],
+	'year': 2000,
+	'title': 'baz',
+	'author': 'joan',
+	'type': 'cd'
+ },
+ {
+	'price': 25.99,
+	'chapters': [
+ 	'one',
+ 	'two'
+	],
+	'year': 2015,
+	'title': 1999,
+	'author': 'joe',
+	'type': 'book'
+ },
+ {
+	'price': 14.99,
+	'minutes': 40,
+	'year': 2010,
+	'title': 'tar',
+	'director': 'joe',
+	'type': 'dvd'
+ },
+ {
+	'price': 10.99,
+	'tracks': [
+ 	{
+   	'seconds': 100,
+   	'name': 'one'
+ 	},
+ 	{
+   	'seconds': 100,
+   	'name': 'two'
+ 	}
+	],
+	'year': 2010,
+	'title': 'bazzzzzz',
+	'author': 'joe',
+	'type': 'cd'
+ }]

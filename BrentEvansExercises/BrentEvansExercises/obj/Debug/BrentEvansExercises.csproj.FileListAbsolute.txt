@@ -1,0 +1,7 @@
+C:\Users\evansbre\Documents\BrentEvansExercises\BrentEvansExercises\bin\Debug\BrentEvansExercises.exe.config
+C:\Users\evansbre\Documents\BrentEvansExercises\BrentEvansExercises\bin\Debug\BrentEvansExercises.exe
+C:\Users\evansbre\Documents\BrentEvansExercises\BrentEvansExercises\bin\Debug\BrentEvansExercises.pdb
+C:\Users\evansbre\Documents\BrentEvansExercises\BrentEvansExercises\bin\Debug\Newtonsoft.Json.Compact.xml
+C:\Users\evansbre\Documents\BrentEvansExercises\BrentEvansExercises\obj\Debug\BrentEvansExercises.csprojResolveAssemblyReference.cache
+C:\Users\evansbre\Documents\BrentEvansExercises\BrentEvansExercises\obj\Debug\BrentEvansExercises.exe
+C:\Users\evansbre\Documents\BrentEvansExercises\BrentEvansExercises\obj\Debug\BrentEvansExercises.pdb
